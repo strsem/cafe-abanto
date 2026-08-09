@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 80">
+<g fill="none" stroke="#6b3f24" stroke-width="5" stroke-linecap="round">
+<path d="M48 39h48c0 20-10 29-24 29S48 59 48 39Z" fill="#f7efe5"/>
+<path d="M96 45c20-2 25 5 25 15s-7 15-25 13"/>
+<path d="M58 31c-3-12 5-18 10-20M75 31c-3-12 5-18 10-20"/>
+</g>
+<text x="135" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" font-weight="700" fill="#6b3f24">آبانتو</text>
+<text x="135" y="61" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" fill="#8a654d">طعم واقعی قهوه</text>
+</svg>
